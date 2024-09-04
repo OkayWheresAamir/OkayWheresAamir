@@ -5,7 +5,7 @@
 ## 💫 About Me:
 👨🏻‍💻 College student currently sharing about my journey and learnings in tech<br>
 🤝 Looking to collaborate on [hackathons](https://devfolio.co/@TheAamirHashmi) and other tech events<br>
-👨🏻‍🎓 Pursuing Computer Engineering from Jamia Millia Islamia<br>
+👨🏻‍🎓 Pursuing Electrical and Computer Engineering from Jamia Millia Islamia<br>
 💭 Currently diving deep into Data structures and Algorithms via MIT on [Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)<br/>
 🌹 Latest significant accomplishment : [CS50x](https://cs50.harvard.edu/x/2024/) completed and certified! 
 
