@@ -1,7 +1,11 @@
 <!--**OkayWheresAamir/OkayWheresAamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!--
+<h3 style="font-size: 50;" align="center">Hi, I'm Aamir!</h3>
+-->
 <h1 align="center">Hi, I'm Aamir!</h1>
-<h3 align="center">An aspiring computer scientist</h3>
+<h4 align="center">An aspiring computer scientist</h4>
 
+<!--<h1 align="center">💫 About Me:</h1>-->
 ## 💫 About Me:
 👨🏻‍💻 College student currently sharing about my journey and learnings in tech<br>
 🤝 Looking to collaborate on [hackathons](https://devfolio.co/@TheAamirHashmi) and other tech events<br>
