@@ -27,4 +27,16 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=OkayWheresAamir&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 💻 Featured YouTube Videos
+
+[![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=HtSuA80QTyo&title=Lecture+1:+Algorithmic+Thinking,+Peak+Finding&lang=en&timestamp=1358188200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Lecture 1: Algorithmic Thinking, Peak Finding")](https://youtu.be/HtSuA80QTyo?si=b7QYksN87h0wsGpQ)
+[![Tips and advice for Computer Science students](https://ytcards.demolab.com/?id=3LPJfIKxwWc&title=CS50x+2024+-+2024+-+Lecture+0+-+Scratch&lang=en&timestamp=1704047400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380 "CS50x 2024 - Lecture 0 - Scratch")](https://youtu.be/3LPJfIKxwWc?si=mjrsewEwBdhtvzDX)
+[![My Computer Science degree in 13 minutes](https://ytcards.demolab.com/?id=L3LMbpZIKhQ&title=Lec+1+|+MIT+6.042J+Mathematics+for+Computer+Science,+Fall+2010&lang=en&timestamp=1356892200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786 "Lec 1 | MIT 6.042J Mathematics for Computer Science, Fall 2010")](https://youtu.be/L3LMbpZIKhQ?si=1AhwiUIamfs6clV3)
+<!--[![How I would learn to code (if I could start over)](https://ytcards.demolab.com/?id=kS03mP7p0ts&title=How+I+would+learn+to+code+(+if+I+could+start+over+)&lang=en&timestamp=1698663600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=695 "How I would learn to code (if I could start over)")](https://youtu.be/kS03mP7p0ts?si=7UXbigeHmyTVGP60)
+[![How to prep for CS?](https://ytcards.demolab.com/?id=YBMf2o2MVDg&title=How+to+prep+for+CS?+Do+I+need+Maths?&lang=en&timestamp=1690632000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=860 "How to prep for CS? Do I need Maths?")](https://youtu.be/YBMf2o2MVDg?si=KGaQIzz_8E6JFYlD)
+[![How I organise my life with Notion](https://ytcards.demolab.com/?id=orJOLdv907g&title=How+I+organise+my+life+with+Notion&lang=en&timestamp=1616324400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "How I organise my life with Notion")](https://youtu.be/orJOLdv907g?si=r31zLR2hnvJiw5p7)
+-->
+
+<!-- END YOUTUBE-CARDS -->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
