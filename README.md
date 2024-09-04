@@ -27,7 +27,7 @@
 ---
 
 
-### 💻 Featured YouTube Videos
+### 💻 Must-watch YouTube videos
 
 [![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=HtSuA80QTyo&title=Lecture+1:+Algorithmic+Thinking,+Peak+Finding&lang=en&timestamp=1358188200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Lecture 1: Algorithmic Thinking, Peak Finding")](https://youtu.be/HtSuA80QTyo?si=b7QYksN87h0wsGpQ)
 [![Tips and advice for Computer Science students](https://ytcards.demolab.com/?id=3LPJfIKxwWc&title=CS50x+2024+-+2024+-+Lecture+0+-+Scratch&lang=en&timestamp=1704047400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=380 "CS50x 2024 - Lecture 0 - Scratch")](https://youtu.be/3LPJfIKxwWc?si=mjrsewEwBdhtvzDX)
