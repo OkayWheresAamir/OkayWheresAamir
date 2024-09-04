@@ -19,11 +19,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=OkayWheresAamir&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=OkayWheresAamir&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
 
+<!--
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OkayWheresAamir&theme=radical&no-frame=false&no-bg=true&margin-w=4) <br/>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+-->
 
 
 ### 💻 Must-watch YouTube videos
